@@ -16,17 +16,15 @@ Python script classifies webcam frames using a Google Teachable Machine model an
 
 ## Wiring (LCD to Arduino)
 
-LCD pin -> Connects to
-----------------------
-VSS -> GND
-VDD -> 5V
-V0 -> Pin 7 and capacitor to GND
-RS -> Pin 4
-RW -> GND
-E -> Pin 5
-D4 -> Pin 10
-D5 -> Pin 11
-D6 -> Pin 12
-D7 -> Pin 13
-A -> 5V
-K -> GND
+1. VSS -> GND
+2. VDD -> 5V
+3. V0 -> Pin 7 and capacitor to GND
+4. RS -> Pin 4
+5. RW -> GND
+6. E -> Pin 5
+7. D4 -> Pin 10
+8. D5 -> Pin 11
+9. D6 -> Pin 12
+10. D7 -> Pin 13
+11. A -> 5V
+12. K -> GND
