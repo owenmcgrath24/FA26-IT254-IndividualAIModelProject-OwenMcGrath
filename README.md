@@ -8,7 +8,7 @@ Webcam → Teachable Machine model code in MS Visual Studio Code → USB serial 
 
 Python script classifies webcam frames using a Google Teachable Machine model and sends a short message ("none, "smartphone", or "calculator) to the Arduino over USB. The Arduino shows the result on the LCD.
 
-## Demo
+## Circuit Picture and Demo Video
 
 ![Circuit picture](PXL_20261010_192734765.jpg)
 
